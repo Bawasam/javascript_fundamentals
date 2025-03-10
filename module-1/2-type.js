@@ -18,7 +18,6 @@ let myObject = {name: "John", age: 23} // boolean data type
 var myVar = null
 // display the data types 
 
-
 console.log(typeof myName)
 console.log(typeof myAge)
 console.log(typeof myArray)
