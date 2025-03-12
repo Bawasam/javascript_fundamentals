@@ -13,7 +13,7 @@ console.log(firstName, first_name, firstname)
 
 // using let with assignment loccal scope
 let lastname = 23                        // not assigned
-let lastName = "malik"                  // assigned 
+let lastName = "sammy"                  // assigned 
 
 console.log(lastname, lastName)
 

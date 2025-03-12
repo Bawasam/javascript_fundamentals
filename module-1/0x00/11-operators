@@ -1,0 +1,12 @@
+#!/usr/bin/node
+
+/** 1. assignment operators (=)  // this is used to assign values 
+ * 2. arithmetic operators (+) this is used to perform arithmetic on numbers
+ * 3. comparison operators (>) this is used to compare values 
+ * 4. string operaotrs this operators are used to compare alphabetical values
+ * 5. bitwise operators (NOT~, Or|, AND&, XOR^, R shift<<, L shift>>, ASS R shift>>>)
+ * 6. ternary operators (?) used to assigne a question
+ * 7. logical operators (&&, ||, !) used to describe a value 
+ * 8. type operators (Typeof) used to return the value of variable */
+
+  
