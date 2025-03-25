@@ -4,4 +4,4 @@ function div (chris, flair) {
     return chris / flair
 }
 
-console.log(div(30,3))
+export default div

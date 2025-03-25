@@ -3,4 +3,5 @@
 function mul(sam, bawa) {
     return sam * bawa
 }
-console.log(mul(5,6))
+
+export default mul
