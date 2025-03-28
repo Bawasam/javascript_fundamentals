@@ -13,4 +13,4 @@ rl.question("Enter any food of your choice:", (food) => {
     fooditem.push(food)
     console.log(fooditem)
     rl.close()
-}) 
+})
